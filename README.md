@@ -17,6 +17,11 @@ Watch videos. Ask an AI. Write code. Take notes. Stay focused — all without le
 [![Redux](https://img.shields.io/badge/Redux_Toolkit-2-764abc?style=for-the-badge&logo=redux&logoColor=white)](https://redux-toolkit.js.org/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-Educational-green?style=for-the-badge)](#-license)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-tube-two.vercel.app/)
+
+<br/>
+
+### 🚀 [**View Live Demo →**](https://dev-tube-two.vercel.app/)
 
 </div>
 
