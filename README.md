@@ -55,10 +55,15 @@ Watch videos. Ask an AI. Write code. Take notes. Stay focused — all without le
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" width="50%">
       <strong>📝 Notes Panel</strong><br/>
-      <img src="assets/screenshots/notes.png" alt="Notes Panel" width="50%"/>
+      <img src="assets/screenshots/notes.png" alt="Notes Panel" width="100%"/>
       <sub>BlockNote rich-text editor, auto-saved to Redux, exportable as PDF</sub>
+    </td>
+    <td align="center" width="50%">
+      <strong>💬 Nested Comments</strong><br/>
+      <img src="assets/screenshots/comments.png" alt="Nested Comments" width="100%"/>
+      <sub>Recursive tree-structured comments with infinite nesting depth</sub>
     </td>
   </tr>
 </table>
